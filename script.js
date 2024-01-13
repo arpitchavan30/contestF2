@@ -31,6 +31,7 @@ let arr =[
   }
   
   function concatenateArray(){
+    
     const newArray =[
       { id: 4, name:"alice",age:"22",profession:"designer"},  
       { id: 5, name:"bob",age:"25",profession:"analyst"},  
